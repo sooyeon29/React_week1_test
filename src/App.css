@@ -1,0 +1,32 @@
+.total {
+  max-width: 1200px;
+  max-height: 800px;
+    
+  margin: auto;
+
+}
+
+.adding-box {
+  
+  text-align: center;
+  align-items: center;
+
+  margin-top: 50px;
+
+}
+
+.todoname {
+  text-align: center;
+}
+
+.todobox {
+  width: 150px;
+  height: 150px;
+
+  border: 3px solid salmon;
+  border-radius: 10px;
+
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
